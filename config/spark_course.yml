@@ -55,5 +55,5 @@ dependencies:
   - zeromq=4.3.4=h2531618_0
   - zlib=1.2.13=h5eee18b_0
   - pip:
-    - pyspark==3.3.1
+    - findspark==2.0.1
 prefix: /home/rodolfo/anaconda3/envs/spark_course

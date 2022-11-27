@@ -65,7 +65,14 @@ Creating conda environment:
 $ conda create --name spark_course
 $ conda install python=3.8.8
 $ conda install -n spark_course ipykernel --update-deps --force-reinstall
-$ pip3 install pyspark
+$ pip3 install findspark
+```
+
+Inside python enviroment:
+```python
+import findspark
+findspark.init("<path_to_spark>")
+import pyspark
 ```
 
 Loading environment from .yml :
