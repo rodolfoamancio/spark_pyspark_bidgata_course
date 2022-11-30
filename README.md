@@ -4,5 +4,5 @@ My repository for lecture notes, files, jupyter-notebooks etc for the course cit
 
 ## Organization
 - notes: mainly .md files with notes from installations, configurations etc
-- notebooks: .ipynb files with examples from the lectures
+- notebooks: .ipynb and .md files with notes from lectures
 - data: supplementary files
