@@ -56,4 +56,5 @@ dependencies:
   - zlib=1.2.13=h5eee18b_0
   - pip:
     - findspark==2.0.1
+    - numpy==1.23.5
 prefix: /home/rodolfo/anaconda3/envs/spark_course
